@@ -23,6 +23,7 @@
  *
  * for WiiXplorer 2010
  ***************************************************************************/
+#define _GNU_SOURCE
 #include <vector>
 #include <string>
 #include <string.h>
